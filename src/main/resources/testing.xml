@@ -1,0 +1,15 @@
+<suite name="LoginSuite">
+    <test name="LoginTest">
+        <classes>
+            <class name="test.LoginTest"/>
+        </classes>
+    </test>
+    <test name="GoogleTests">
+        <classes>
+            <class name="test.GoogleTest"/>
+        </classes>
+    </test>
+
+
+
+</suite>
